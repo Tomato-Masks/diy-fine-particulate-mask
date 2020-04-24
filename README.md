@@ -12,4 +12,4 @@ In the long term, we are seeking to develop means to characterize performance of
 
 | Design Document | Instructions | Version | Status |
 | ------ | ------ | ------ | ------ |
-| [Type 1](https://github.com/Tomato-Masks/diy-fine-particulate-mask/tree/master/designs/type-1) | | v0.4 | Stable
+| [Type 1](https://github.com/Tomato-Masks/diy-fine-particulate-mask/tree/master/designs/type-1) | [Type 1: A DIY Fine Particulate Mask](https://tomato-masks.github.io/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/) | v0.5 | Stable
