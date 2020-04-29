@@ -12,6 +12,10 @@ This is a ‘Do It Yourself’ open source mask and we are not liable or respons
 
 **WARNING: Masks can be dangerous to people with respiratory or heart problems.**
 
+**Table of Contents**
+
+{toc
+
 # Objective
 
 The objective here is to use available peer reviewed publication to design a mask that can be built at home with readily available materials and tools. 
@@ -700,7 +704,7 @@ Dimension Approx.
     <img src="./assets/images/type1v04/Small-Stencil-Outer-Layer.jpg" width="450px">
 </p>
 
-<p style="text-align: center;">
+<p align="center">
 <strong>Small Size - Outer Layer</strong>
 </p>
 <br>
@@ -713,7 +717,7 @@ Dimension Approx.
 <p align="center">
     <img src="./assets/images/type1v04/Medium-Inner-Layer.jpg" width="450px">
 </p>
-<p style="text-align: center;">
+<p align="center">
 <strong>Medium Size - Inner Layer</strong>
 </p>
 <br>
@@ -725,7 +729,7 @@ Dimension Approx.
     <img src="./assets/images/type1v04/Medium-Stencil-Outer-Layer.jpg" width="450px">
 </p>
 
-<p style="text-align: center;">
+<p align="center">
 <strong>Medium Size - Outer Layer</strong>
 </p>
 <br>
@@ -740,7 +744,7 @@ Dimension Approx.
 <p align="center">
     <img src="./assets/images/type1v04/Large-Inner-Layer.jpg" width="450px">
 </p>
-<p style="text-align: center;">
+<p align="center">
 <strong>Large Size - Inner Layer</strong>
 </p>
 <br>
@@ -753,7 +757,7 @@ Dimension Approx.
     <img src="./assets/images/type1v04/Large-Stencil-Outer-Layer.jpg" width="450px">
 </p>
 
-<p style="text-align: center;">
+<p align="center">
 <strong>Large Size - Outer Layer</strong>
 </p>
 <br>
