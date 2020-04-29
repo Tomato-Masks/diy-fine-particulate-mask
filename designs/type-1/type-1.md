@@ -53,7 +53,7 @@ Statically charged filters use electrostatic force to attract flowing particles 
 <p align="center">
     <img src="./assets/images/type1v04/filtration-mechanism.jpg" width=450px>
 </p>
-<p style="text-align: center;">
+<p align= "center">
 <strong>Figure 1: Filtration Mechanisms<sup>2</sup></strong>
 </p>
 <br>
@@ -293,19 +293,19 @@ If you have a printer, you can download and print the provided stencils from [Ap
 <p align="center">
     <img src="./assets/images/type1v04/preparation-noseclamp.jpg" width="450px">
 </p>
-<p style="max-width:600px; word-wrap:break-word; margin:0 auto">
+<p align= "center" width="450px">
 1. Expand a large paper clip as shown above and wrap it in aluminum foil. Alternatively, use a piece of wire about 10-15 cm long.
 </P>
 <p align="center">
     <img src="./assets/images/type1v04/aluminum-foil.jpg" width="450px">
 </p>
-<p style="max-width:600px; word-wrap:break-word; margin:0 auto">
+<p align= "center" width="450px"">
 2. Roll a letter size paper (~ 27 cm x 21.0 cm) aluminum foil along its length. The end result should be 0.8 cm - 1.0 cm thick and 21.0 cm long. This will be embedded into the fabric of the mask’s inner layer to assist with facial fitting.
 </p>
 <p align="center">
     <img src="./assets/images/type1v04/fabric-stripe-preparation.jpg" width="450px">
 </p>
-<p align= "center">
+<p align= "center" width="450px">
 3. Cut a 60 cm x 6 cm rectangle from a 100% cotton fabric. Fold it along its length  so that you end up with a 10 cm x 6 cm square. Use a ruler to draw parallel lines across its length with 1 cm gaps. These lines will be used as a guide for cutting. Once cuttings are done, you will end up with uniform strips each 60 cm length and 1 cm thick. Cut one or two of them in half to have one or two pairs of 30 cm x 1 cm strips. <strong>(Alternatively, if you have knit elastic bands, use them)</strong>
 </p>
 <br>
