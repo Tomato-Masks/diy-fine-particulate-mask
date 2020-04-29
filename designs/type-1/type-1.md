@@ -1,63 +1,3 @@
-<html>
-<head>
-<style>
-table, th, td {
-  border: 0px solid black;
-}
-th, td {
-  padding: 10px;
-}
-td {
-    width:50%;
-}
-table.dimensions, th.dimensions, td.dimensions {
-    border: 1px solid black;
-    max-width: 100%;
-    height: auto;
-}
-th.dimensions, td.dimcol1, td.dimcols{
-    padding: 10px;
-    border: 1px solid black;
-}
-tr.dimensions {
-    vertical-align: middle;
-}
-td.dimcol1 {
-    width: 40%;
-    text-align: right;
-    font-weight: bold;
-    vertical-align: middle;
-}
-td.dimcols {
-    width: 20%;
-    text-align: center;
-    vertical-align: middle;
-}
-//width: 400px;
-//height: 301px;
-img.tbl {  
-  max-width:100%;
-  height:auto;
-}
-// Adding 'Contents' headline to the TOC
-#markdown-toc::before {
-    content: "Contents";
-    font-weight: bold;
-}
-// Using numbers instead of bullets for listing
-#markdown-toc ul {
-    list-style: decimal;
-}
-#markdown-toc {
-    border: 1px solid #aaa;
-    padding: 1.5em;
-    list-style: decimal;
-    display: inline-block;
-}
-</style>
-</head>
-</html>
-
 **Type 1: DIY Fine Particulate Mask v0.4 (Current)**
 
 **By Tomato Masks**
@@ -194,7 +134,7 @@ The current design consists of an inner layer and an outer layer, all made out o
     <img src="./assets/images/type1v04/concept.jpg" width=450px>
 </p>
 <br>
-<p style="text-align: center;">
+<p align= "center">
 <strong>Fig 1: Concept - 100% Cotton Fine Particulate Mask</strong>
 </p>
 <br>
@@ -202,7 +142,7 @@ The current design consists of an inner layer and an outer layer, all made out o
     <img src="./assets/images/type1v04/fullmask.jpg" width="450px">
 </p>
 <br>
-<p style="text-align: center;">
+<p align= "center">
 <strong>Fig 2: Actual - 100% Cotton Fine Particulate Mask</strong>
 </p>
 <br>
@@ -217,7 +157,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
     <img src="./assets/images/type1v04/v04-inner-11.jpg" width="450px">
 </p>
 <br>
-<p style="text-align: center;">
+<p align= "center">
 <strong>Fig 3a: Inner Layer Folded</strong>
 </p>
 <br>
@@ -225,7 +165,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
     <img src="./assets/images/type1v04/v04-inner-12.jpg" width="450px">
 </p>
 <br>
-<p style="text-align: center;">
+<p align= "center">
 <strong>Fig 3b: Inner Layer Expanded</strong>
 </p>
 <br>
@@ -240,7 +180,7 @@ The main filtering is done through the outer layer. The outer layer helps  to fu
     <img src="./assets/images/type1v04/v04-12d.jpg" width="450px">
 </p>
 
-<p style="text-align: center;">
+<p align= "center">
 <strong>Fig 4: Outer Layer</strong>
 </p>
 <br>
@@ -251,7 +191,7 @@ The two layers are integrated via passing inner layer straps through two embedde
 <p align="center">
     <img src="./assets/images/type1v04/v04-14.jpg" width="450px">
 </p>
-<p style="text-align: center;">
+<p align= "center">
 <strong>Fig 5: Integration</strong>
 </p>
 <br>
@@ -363,9 +303,9 @@ If you have a printer, you can download and print the provided stencils from [Ap
 2. Roll a letter size paper (~ 27 cm x 21.0 cm) aluminum foil along its length. The end result should be 0.8 cm - 1.0 cm thick and 21.0 cm long. This will be embedded into the fabric of the mask’s inner layer to assist with facial fitting.
 </p>
 <p align="center">
-    ![_config.yml]({{site.baseurl}}./assets/images/type1v04/fabric-stripe-preparation.jpg){: width="450px"}
+    <img src="./assets/images/type1v04/fabric-stripe-preparation.jpg" width="450px">
 </p>
-<p style="max-width:600px; word-wrap:break-word; margin:0 auto">
+<p align= "center">
 3. Cut a 60 cm x 6 cm rectangle from a 100% cotton fabric. Fold it along its length  so that you end up with a 10 cm x 6 cm square. Use a ruler to draw parallel lines across its length with 1 cm gaps. These lines will be used as a guide for cutting. Once cuttings are done, you will end up with uniform strips each 60 cm length and 1 cm thick. Cut one or two of them in half to have one or two pairs of 30 cm x 1 cm strips. <strong>(Alternatively, if you have knit elastic bands, use them)</strong>
 </p>
 <br>
@@ -624,7 +564,7 @@ Use any of the followings materials:
 Fold them or cut them if necessary so that they can fit inside the inner layer. Use the inner layer’s rims as a means to stabilize the inserted filter. In the example below, a paper towel was folded in half first and the corners were folded again to better match the inner layer’s silhouette:
 <br>
 <p align="center">
-    ![_config.yml]({{site.baseurl}}./assets/images/type1v04/v04-filterinstalled.jpg){: width="450px"}
+    <img src="./assets/images/type1v04/v04-filterinstalled.jpg" width="450px"}
 </p>
 <br>
 <p style="text-align: center;">
@@ -635,7 +575,7 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 ## Wearing Instructions
 <br>
 <p align="center">
-    ![_config.yml]({{site.baseurl}}./assets/images/type1v04/fitting-v04-1.jpg){: width="450px"}
+    <img src="./assets/images/type1v04/fitting-v04-1.jpg" width="450px">
 </p>
 <br>
 <p style="text-align: center; max-width:600px; word-wrap:break-word; margin:0 auto">
