@@ -143,7 +143,7 @@ Davies et al study showed that all materials that were tested have some capabili
 <br>
 <br>
 <p align="center">
-    <img src="./assets/images/type1v04/materials-performance.jpg" width=550px>
+    <img src="./assets/images/type1v04/materials-performance-tbl.jpg" width=550px>
 </p>
 <br>
 All materials were clean and unused before. Due to the relatively decent filtering and breathability of 100% cotton, the authors concluded that this material is the best choice for homemade masks.<sup>1</sup>
