@@ -12,27 +12,29 @@ This is a ‘Do It Yourself’ open source mask and we are not liable or respons
 - [Objective](#Objective)
 - [Background](#Background)
   * [Filtration Mechanisms](#Filtration-Mechanisms)
-    + [Inertial Impaction](#Inertial-Impaction)
-    + [Diffusion](#Diffusion)
-    + [Electrostatic Attraction](#Electrostatic-Attraction)
   * [Efficacy of Homemade Masks](#Efficacy-of-Homemade-Masks)
 - [Design Requirements](#Design-Requirements)
 - [Material Research](#Material-Research)
   * [Filter Characterization](#Filter-Characterization)
-    + [Filter Efficiency](#Filter-Efficiency)
-    + [Filter Breathability](#Filter-Breathability)
-    + [Filter Performance](#Filter-Performance)
 - [Design](#Design)
   * [Inner Layer](#Inner-Layer)
   * [Outer Layer](#Outer-Layer)
   * [Integration](#Integration)
 - [Fabrication Instructions](#Fabrication-Instructions)
-* [Overview](#Overview)
-* [Preparation](#Preparation)
-    + [Size Selection](#Size-Selection)
-    + [Materials](#Materials)
-    + [Tools](#Tools)
-    + [Fitting Mechanism](#Fitting-Mechanism)
+  * [Overview](#Overview)
+  * [Preparation](#Preparation)
+  * [Inner Layer](#Inner-Layer)
+  * [Outer Layer](#Outer-Layer)
+  * [Layer Integration](#Layer-Integration)
+  * [Disposable Filter Insertion](#Disposable-Filter-Insertion)
+- [Wearing Instructions](#Wearing-Instructions)
+- [Fit Testing](#Fit-Testing)
+  * [Disposable Filter Insertion](#Qualitative-Testing)
+- [References](#References)
+- [Appendix](#Appendix)
+  * [1. Sizes](#1.-sizes)
+  * [2. Design Layout](#2.-Design-Layout)
+  * [3. Stencils](#3.-Stencils)
 <!-- toc -->
 
 # Objective
@@ -55,39 +57,39 @@ The filtering systems used by respirators and masks have the ability to filter d
 
 ## Filtration Mechanisms
 
-There are three mechanisms involved in the filtration process of respirators and masks. These are inertial impaction, diffusion, and electrostatic attraction<sup>2</sup>:
+There are three mechanisms involved in the filtration process of respirators and masks. These are inertial impaction, diffusion, and electrostatic attraction<sup>[2](https://www.nap.edu/read/11637/chapter/4)</sup> :
 
 
 ### Inertial Impaction
 
-Particles with a diameter of 1 µm and larger have higher inertia due to their mass<sup>2</sup>. Such particles are less likely to change path as they propagate along the airstream. As airstream flows through filtering material, complex airflow patterns are formed and that increases the need for maneuverability of particles in order to fall through the gaps. High inertial particles have lower tendency to change direction as a result, they impact the fibres of the filter<sup>2</sup>.
+Particles with a diameter of 1 µm and larger have higher inertia due to their mass<sup>[2](https://www.nap.edu/read/11637/chapter/4)</sup> . Such particles are less likely to change path as they propagate along the airstream. As airstream flows through filtering material, complex airflow patterns are formed and that increases the need for maneuverability of particles in order to fall through the gaps. High inertial particles have lower tendency to change direction as a result, they impact the fibres of the filter<sup>[2](https://www.nap.edu/read/11637/chapter/4)</sup> .
 
 
 ### Diffusion
 
-Particles with a diameter of 0.1µm and smaller, have lower inertial and prone to influence by other particle interactions such as gas molecules. The momentum transfer leads to Brownian motion which increases the chance of collisions with the filter material’s fibres<sup>2</sup>.
+Particles with a diameter of 0.1µm and smaller, have lower inertial and prone to influence by other particle interactions such as gas molecules. The momentum transfer leads to Brownian motion which increases the chance of collisions with the filter material’s fibres<sup>[2](https://www.nap.edu/read/11637/chapter/4)</sup> .
 
 
 ### Electrostatic Attraction
 
-Statically charged filters use electrostatic force to attract flowing particles of various sizes<sup>2</sup>. Many respirators use permanently charged fibres to entrap particles. The mechanism reduces the need for dense and thick filtration. 
+Statically charged filters use electrostatic force to attract flowing particles of various sizes<sup>[2](https://www.nap.edu/read/11637/chapter/4)</sup> . Many respirators use permanently charged fibres to entrap particles. The mechanism reduces the need for dense and thick filtration. 
 <br>
 <br>
 <p align="center">
     <img src="./assets/images/type1v04/filtration-mechanism.jpg" width=450px>
 </p>
 <p align= "center">
-<strong>Figure 1: Filtration Mechanisms<sup>2</sup></strong>
+<strong>Figure 1: Filtration Mechanisms</strong><sup><br>Source: https://www.nap.edu/read/11637/chapter/4</sup>
 </p>
 <br>
 
 ## Efficacy of Homemade Masks
 
-The efficacy of masks depends on filtering efficiency as well as its airtightness. Filtration depends on many factors such as the size of the particles, their velocity, filter material structure and composition. Despite the filter material’s capability to block fine particulates, goodness of fit of masks is also important as aerosols can find their way through gaps where the mask fails to seal the face.<sup>1</sup> 
+The efficacy of masks depends on filtering efficiency as well as its airtightness. Filtration depends on many factors such as the size of the particles, their velocity, filter material structure and composition. Despite the filter material’s capability to block fine particulates, goodness of fit of masks is also important as aerosols can find their way through gaps where the mask fails to seal the face.<sup>[1](http://journals.cambridge.org/abstract_S1935789313000438)</sup> 
 
 Filtration efficiency is a balance often comes at a cost of breathability. More dense materials tend to be less breathable and that has led to development of electrostatic filters.  
 
-Since homemade masks are made with accessible items, materials and tools and no testing mechanisms are there to validate their performance, homemade masks should not be used as a respirator. Homemade masks should be only used as a last resort as they provide little protection.<sup>1</sup> 
+Since homemade masks are made with accessible items, materials and tools and no testing mechanisms are there to validate their performance, homemade masks should not be used as a respirator. Homemade masks should be only used as a last resort as they provide little protection.<sup>[1](http://journals.cambridge.org/abstract_S1935789313000438)</sup> 
 <br>
 
 # Design Requirements
@@ -106,12 +108,12 @@ Since homemade masks are made with accessible items, materials and tools and no 
 
 There are a few materials that can be used for filter and overall construction. The HEPA filters used by HVAC systems can be bought with PM 0.3 ratings. However, as such filters are not widely available and are expensive, alternative materials should also be pursued. Luckily, Cambridge University has done a study where they have ranked different household items in terms of their filtering capabilities. 
 
-In their research, Davies A et al,<sup>1</sup> characterized a range of household materials and compared them with the material from a surgical mask from (Mo ¨lnlycke Health Care Barrier face mask 4239, EN14683 class I). 
+In their research, Davies A et al,<sup>[1](http://journals.cambridge.org/abstract_S1935789313000438)</sup> characterized a range of household materials and compared them with the material from a surgical mask from (Mo ¨lnlycke Health Care Barrier face mask 4239, EN14683 class I). 
 
 
 ## Filter Characterization
 
-The researchers used circular cut outs of the materials and mounted them without any tension inside an airtight casing where the only entry point is through the material. They tested aerosol transport across each material. Through utilization of Henderson apparatus, the researchers delivered aerosols at a rate of 30L/min using the method of Wilkes et al,<sup>3</sup> which is equivalent of 3 to 6 times per minute the ventilation of human at rest or doing light work but is less than 0.1 the flow of an average cough.<sup>1</sup> 
+The researchers used circular cut outs of the materials and mounted them without any tension inside an airtight casing where the only entry point is through the material. They tested aerosol transport across each material. Through utilization of Henderson apparatus, the researchers delivered aerosols at a rate of 30L/min using the method of Wilkes et al,<sup>[2](https://www.ncbi.nlm.nih.gov/pubmed/10792138)</sup>  which is equivalent of 3 to 6 times per minute the ventilation of human at rest or doing light work but is less than 0.1 the flow of an average cough.<sup>[1](http://journals.cambridge.org/abstract_S1935789313000438)</sup> 
 
 In order to track filter material’s efficiency, the Cambridge University researchers used an apparatus to introduce the following microorganisms into the aerosol:
 
@@ -124,7 +126,7 @@ Using the apparatus, these microorganisms were later collected from the aerosol 
 
 ### Filter Efficiency
 
-Davies A et al, then defined Filter Efficiency (FE) as the percent difference between colony-forming units (cfu) for upstream and downstream<sup>1</sup> as: 
+Davies A et al, then defined Filter Efficiency (FE) as the percent difference between colony-forming units (cfu) for upstream and downstream<sup>[1](http://journals.cambridge.org/abstract_S1935789313000438)</sup> as: 
 <br>
 <p align=center>
 <a href="https://www.codecogs.com/eqnedit.php?latex=FE=&space;\frac{Upstream\&space;cfu&space;-&space;Downstream\&space;cfu}{Upstream\&space;cfu}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?FE=&space;\frac{Upstream\&space;cfu&space;-&space;Downstream\&space;cfu}{Upstream\&space;cfu}" title="FE= \frac{Upstream\ cfu - Downstream\ cfu}{Upstream\ cfu}" /></a>
@@ -250,9 +252,9 @@ The building instructions are broken down into:
 ## Preparation
 
 ### Size Selection
-There are designs for 3 separate sizes of Small, Medium and Large. To identify the closest fit, refer to [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-sizes). 
+There are designs for 3 separate sizes of Small, Medium and Large. To identify the closest fit, refer to [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-Sizes). 
 
-If you have a printer, you can download and print the provided stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-stencils). Otherwise, you can refer to the design diagrams from [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout).
+If you have a printer, you can download and print the provided stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-Stencils). Otherwise, you can refer to the design diagrams from [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-Design-Layout).
 <br>
 <br>
 
@@ -304,7 +306,7 @@ If you have a printer, you can download and print the provided stencils from [Ap
 
 1. Sewing needle and strand (**Optional:** If sewing machine is available, then use sewing machine)
 
-2. Ruler (Only If you cannot print the stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-stencils))
+2. Ruler (Only If you cannot print the stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-Stencils))
 
 3. Scissors
 <br>
@@ -335,12 +337,12 @@ If you have a printer, you can download and print the provided stencils from [Ap
 <br>
 
 ## Inner Layer
-<br>
+
 In this segment, there are **two options**:
 
-1. Use a provided stencil under [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout), as a guide to cut the fabric **(requires a printer).**
+1. Use a provided stencil under [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-Design-Layout), as a guide to cut the fabric **(requires a printer).**
 
-2. Use layouts from [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-sizes) and draw the layout onto fabric manually and then use it as a guide to cut. 
+2. Use layouts from [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-Sizes) and draw the layout onto fabric manually and then use it as a guide to cut. 
 
 
 
@@ -447,12 +449,11 @@ In this segment, there are **two options**:
 <br>
 
 ## Outer Layer
-<br>
 In this segment, there are **two options**:
 
-1. Use a provided stencil under [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout), as a guide to cut the fabric **(requires a printer). **If you are using this option, **skip to step 9.**
+1. Use a provided stencil under [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-Design-Layout), as a guide to cut the fabric **(requires a printer). **If you are using this option, **skip to step 9.**
 
-2. Use layouts from [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-sizes) and draw the layout onto fabric manually and then use it as a guide to cut. In this case, **proceed from step 1.**
+2. Use layouts from [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-Sizes) and draw the layout onto fabric manually and then use it as a guide to cut. In this case, **proceed from step 1.**
 
 <table align="center" style="text-align:left; width: 900">
     <tr>
@@ -631,7 +632,8 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 <br>
 
 # Fit Testing
-### Qualitative Testing: Tightness Inspection
+## Qualitative Testing:
+### Tightness Inspection
 <br>
 It is now time to check the goodness of fit:
 <br>
