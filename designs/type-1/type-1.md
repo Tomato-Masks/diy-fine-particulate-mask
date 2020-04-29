@@ -1,20 +1,39 @@
-**Type 1: DIY Fine Particulate Mask v0.4 (Current)**
-
-**By Tomato Masks**
-
-**Authors: Parsian Asgari, Allan Fernandes**
+# Type 1: DIY Fine Particulate Mask v0.5 (Current)
 
 **Disclaimer**
 
 This is a ‘Do It Yourself’ open source mask and we are not liable or responsible in regards to its performance or characteristics or how it is used. Build and use this at your own risks. 
 
 **NOTE: This is not a respirator.**
-
+<br>
 **WARNING: Masks can be dangerous to people with respiratory or heart problems.**
 
-**Table of Contents**
-
-{toc
+# Table of Contents
+- [Objective](#Objective)
+- [Background](#Background)
+  * [Filtration Mechanisms](#Filtration-Mechanisms)
+    + [Inertial Impaction](#Inertial-Impaction)
+    + [Diffusion](#Diffusion)
+    + [Electrostatic Attraction](#Electrostatic-Attraction)
+  * [Efficacy of Homemade Masks](#Efficacy-of-Homemade-Masks)
+- [Design Requirements](#Design-Requirements)
+- [Material Research](#Material-Research)
+  * [Filter Characterization](#Filter-Characterization)
+    + [Filter Efficiency](#Filter-Efficiency)
+    + [Filter Breathability](#Filter-Breathability)
+    + [Filter Performance](#Filter-Performance)
+- [Design](#Design)
+  * [Inner Layer](#Inner-Layer)
+  * [Outer Layer](#Outer-Layer)
+  * [Integration](#Integration)
+- [Fabrication Instructions](#Fabrication-Instructions)
+* [Overview](#Overview)
+* [Preparation](#Preparation)
+    + [Size Selection](#Size-Selection)
+    + [Materials](#Materials)
+    + [Tools](#Tools)
+    + [Fitting Mechanism](#Fitting-Mechanism)
+<!-- toc -->
 
 # Objective
 
@@ -127,7 +146,7 @@ Davies et al study showed that all materials that were tested have some capabili
 <br>
 All materials were clean and unused before. Due to the relatively decent filtering and breathability of 100% cotton, the authors concluded that this material is the best choice for homemade masks.<sup>1</sup>
 
-## Design
+# Design
 
 As per Davies et al study, it was decided to utilize 100% cotton as the main filtering material for this design. In order to meet the design requirements, several prototypes were built and refinements were made iteratively. 
 
@@ -152,7 +171,7 @@ The current design consists of an inner layer and an outer layer, all made out o
 <br>
 <br>
 
-### Inner Layer
+## Inner Layer
 
 An adjustable inner layer helps with the mask’s fitting to the shape of the face. The layer provides a tighter fit  in conjunction with the outer layer. This layer has a pair of elastic bands made from 100% cotton. In addition, this layer acts as housing to hold an additional filter.
 
@@ -177,7 +196,7 @@ An adjustable inner layer helps with the mask’s fitting to the shape of the fa
 
 
 
-### Outer Layer
+## Outer Layer
 The main filtering is done through the outer layer. The outer layer helps  to further close the gaps left by the inner layer. The outer layer has two embedded elastic bands that enable tighter fitting. 
 <br>
 <p align="center">
@@ -190,7 +209,7 @@ The main filtering is done through the outer layer. The outer layer helps  to fu
 <br>
 <br>
 
-### Integration
+## Integration
 The two layers are integrated via passing inner layer straps through two embedded holes in the outer layer.  These straps then act as the middle bands of the mask. 
 <p align="center">
     <img src="./assets/images/type1v04/v04-14.jpg" width="450px">
@@ -201,9 +220,9 @@ The two layers are integrated via passing inner layer straps through two embedde
 <br>
 <br>
 
-## Fabrication Instructions
+# Fabrication Instructions
 
-### Overview
+## Overview
 The building instructions are broken down into:
 
 1. Preparation:
@@ -228,16 +247,16 @@ The building instructions are broken down into:
 <br>
 <br>
 
-### Preparation
+## Preparation
 
-#### Size Selection
+### Size Selection
 There are designs for 3 separate sizes of Small, Medium and Large. To identify the closest fit, refer to [Appendix 1](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#1-sizes). 
 
 If you have a printer, you can download and print the provided stencils from [Appendix 3](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#3-stencils). Otherwise, you can refer to the design diagrams from [Appendix 2](/Tomato-Masks-Type-1-A-DIY-Fine-Particulate-Mask/#2-design-layout).
 <br>
 <br>
 
-#### Materials
+### Materials
 1. 100% Cotton Fabric
 
     * Use an old (or new) 100% cotton clothing such as a shirt, t-shirt or button shirt:
@@ -281,7 +300,7 @@ If you have a printer, you can download and print the provided stencils from [Ap
 <br>
 
 
-#### Tools
+### Tools
 
 1. Sewing needle and strand (**Optional:** If sewing machine is available, then use sewing machine)
 
@@ -292,7 +311,7 @@ If you have a printer, you can download and print the provided stencils from [Ap
 <br>
 
 
-#### Fitting Mechanism
+### Fitting Mechanism
 
 <p align="center">
     <img src="./assets/images/type1v04/preparation-noseclamp.jpg" width="450px">
@@ -315,7 +334,7 @@ If you have a printer, you can download and print the provided stencils from [Ap
 <br>
 <br>
 
-### Inner Layer
+## Inner Layer
 <br>
 In this segment, there are **two options**:
 
@@ -427,7 +446,7 @@ In this segment, there are **two options**:
 </table>
 <br>
 
-### Outer Layer
+## Outer Layer
 <br>
 In this segment, there are **two options**:
 
@@ -524,7 +543,7 @@ In this segment, there are **two options**:
 </table>
 <br>
 
-### Layer Integration
+## Layer Integration
 <br>
 It is time to integrate the two layers:
 
@@ -556,7 +575,7 @@ It is time to integrate the two layers:
 </table>
 <br>
 
-### Disposable Filter Insertion
+## Disposable Filter Insertion
 <br>
 Use any of the followings materials:
 <ul>
@@ -578,7 +597,7 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 <br>
 <br>
 
-## Wearing Instructions
+# Wearing Instructions
 <br>
 <p align="center">
     <img src="./assets/images/type1v04/fitting-v04-1.jpg" width="450px">
@@ -611,7 +630,7 @@ Fold them or cut them if necessary so that they can fit inside the inner layer. 
 <br>
 <br>
 
-## Fit Testing
+# Fit Testing
 ### Qualitative Testing: Tightness Inspection
 <br>
 It is now time to check the goodness of fit:
@@ -652,7 +671,7 @@ It is now time to check the goodness of fit:
 # Appendix
 <br>
 
-### 1. Sizes
+## 1. Sizes
 
 Three sizes are provided for this mask, these are:
 
@@ -683,11 +702,11 @@ Dimension Approx.
 <br>
 <br>
 
-### 2. Design Layout
+## 2. Design Layout
 
-#### Small
+### Small
 
-##### Inner Layer Dimensions
+#### Inner Layer Dimensions
 
 <p align="center">
     <img src="./assets/images/type1v04/Small-Inner-Layer.jpg" width="450px">
@@ -698,7 +717,7 @@ Dimension Approx.
 <br>
 <br>
 
-##### Outer Layer Dimensions
+#### Outer Layer Dimensions
 
 <p align="center">
     <img src="./assets/images/type1v04/Small-Stencil-Outer-Layer.jpg" width="450px">
@@ -710,9 +729,9 @@ Dimension Approx.
 <br>
 <br>
 
-#### Medium
+### Medium
 
-##### Inner Layer Dimensions
+#### Inner Layer Dimensions
 
 <p align="center">
     <img src="./assets/images/type1v04/Medium-Inner-Layer.jpg" width="450px">
@@ -723,7 +742,7 @@ Dimension Approx.
 <br>
 <br>
 
-##### Outer Layer Dimensions
+#### Outer Layer Dimensions
 
 <p align="center">
     <img src="./assets/images/type1v04/Medium-Stencil-Outer-Layer.jpg" width="450px">
@@ -736,10 +755,10 @@ Dimension Approx.
 <br>
 
 
-#### Large
+### Large
 
 
-##### Inner Layer Dimensions
+#### Inner Layer Dimensions
 
 <p align="center">
     <img src="./assets/images/type1v04/Large-Inner-Layer.jpg" width="450px">
@@ -751,7 +770,7 @@ Dimension Approx.
 <br>
 
 
-##### Outer Layer Dimensions
+#### Outer Layer Dimensions
 
 <p align="center">
     <img src="./assets/images/type1v04/Large-Stencil-Outer-Layer.jpg" width="450px">
