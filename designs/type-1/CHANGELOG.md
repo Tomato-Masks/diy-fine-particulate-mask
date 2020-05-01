@@ -9,14 +9,14 @@ Given a version number MAJOR.MINOR, increment the:
 1. MAJOR version when you make changes to the design, i.e. the form but not the function.
 2. MINOR version when you add revisions, enhancements or fixes.
 
-## [0.5] - 2017-06-29
+## [0.5] - 2020-06-29
 ### Added
 - Square shape hole on the inner layer to improve breathability and allow addition of disposable filters.
 ### Changed
 - Design document was converted from .odt to .md.
 ### Removed
 - .odt design document.
-## [0.4]
+## [0.4] - 2020-03-25
 ### Added
 - Aluminum foil face fitting rim to innner layer.
 ### Changed
