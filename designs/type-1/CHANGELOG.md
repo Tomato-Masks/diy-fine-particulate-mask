@@ -17,8 +17,7 @@ Given a version number MAJOR.MINOR, increment the:
 ### Removed
 - .odt design document.
 ## [0.4] - 2020-03-25
-### Added
-- Aluminum foil face fitting rim to innner layer.
+
 ### Changed
 - Material from polypropylene to 100% cotton.
 - Location of nose clamp from outside of the outer layer to inside.
